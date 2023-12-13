@@ -1,5 +1,23 @@
 # 💫 About Me:
-## 👋 Olá, Mundo!<br><br>Eu sou Tales Coelho, Desenvolvedor front-end que transforma ideias em interfaces incríveis. <br>Minha jornada no mundo do desenvolvimento web começou com uma curiosidade incessante pela experiência do usuário e design responsivo.<br><br>### 💻 O que eu faço:<br><br>- Desenvolvimento de interfaces de usuário interativas e intuitivas.<br>- Implementação de designs responsivos para proporcionar uma experiência perfeita em todos os dispositivos.<br>- Colaboração em projetos de equipe, mergulhando nos desafios e aprendendo constantemente.<br><br>### 🚀 Tecnologias que eu amo:<br><br>- HTML, CSS, JavaScript <br>- React.js para construir componentes reutilizáveis e interfaces dinâmicas.<br><br>### 🌱 Sempre Aprendendo:<br><br>Estou sempre explorando novas tecnologias e práticas de desenvolvimento. No momento, estou aprofundando meu conhecimento em  Projetos Pessoais.<br><br>### 🤝 Vamos Colaborar:<br><br>Estou aberto a colaborações e novos desafios. Se você está trabalhando em algo interessante, vamos conversar e ver como posso contribuir!<br><br>### 📫 Como me encontrar:<br><br>- LinkedIn: linkedin.com/in/tales-coellho<br>- Portfolio: Em breve<br><br>Vamos construir algo incrível juntos! ✨
+Olá, Mundo! 👋 Sou Tales Coelho, um apaixonado Desenvolvedor Front-End dedicado a transformar ideias em interfaces incríveis. Minha jornada no desenvolvimento web começou com uma curiosidade incessante pela experiência do usuário e design responsivo.
+
+💻 O que faço:
+Desenvolvo interfaces interativas e intuitivas.
+Implemento designs responsivos para uma experiência perfeita em todos os dispositivos.
+Colaboro em projetos de equipe, enfrentando desafios e aprendendo constantemente.
+🚀 Tecnologias que amo:
+HTML, CSS, JavaScript.
+Utilizo React.js para construir componentes reutilizáveis e interfaces dinâmicas.
+🌱 Sempre Aprendendo:
+Estou sempre explorando novas tecnologias e práticas de desenvolvimento. Atualmente, aprofundo meu conhecimento em Projetos Pessoais.
+
+🤝 Vamos Colaborar:
+Aberto a colaborações e novos desafios. Se você está trabalhando em algo interessante, vamos conversar sobre como posso contribuir!
+
+📫 Como me encontrar:
+LinkedIn: linkedin.com/in/tales-coellho
+Portfólio: Em breve
+Vamos construir algo incrível juntos! ✨
 
 
 ## 🌐 Socials:
